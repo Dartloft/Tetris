@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1632166806 source:d:\proyectos\codetetros\mijuego\block.cpp
+	"Block.h"
+
+1631904747 d:\proyectos\codetetros\mijuego\block.h
+
+1632167255 source:d:\proyectos\codetetros\mijuego\board.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"Comun.h"
+	"board.h"
+
+1632166921 d:\proyectos\codetetros\mijuego\comun.h
+
+1632164490 d:\proyectos\codetetros\mijuego\board.h
+	"block.h"
+
+1632167069 source:d:\proyectos\codetetros\mijuego\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"comun.h"
+	"board.h"
+
